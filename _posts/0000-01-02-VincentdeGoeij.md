@@ -2,4 +2,4 @@ layout: slide
 title: "Welcome to our second slide"
 
 Your text
-Use the left arrow to go back
+Starting to understand; slowly but steady 
